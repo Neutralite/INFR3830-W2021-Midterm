@@ -8,7 +8,8 @@ Controls:
 - Click outside of the chat box input field to return to play.
 
 Updates:
-- Current version of client can send things to exercise 3's UDP Server if that's set to listen on port 11112.
+- Current version of client can send things to exercise 3's UDP Server if that's set to listen on port 11112. 
+- This only works if 127.0.0.1 is the first thing sent in chat.
 - Current version of server is unimplemented.
 
 Bugs:
